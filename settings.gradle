@@ -1,0 +1,2 @@
+rootProject.name = "S2android5"
+include ':app'
